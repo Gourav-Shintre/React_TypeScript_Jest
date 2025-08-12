@@ -1,0 +1,2 @@
+TDD(Test Driven Development):
+-TDD is a software devlopemnt process where you write the tests before writing the software code.
