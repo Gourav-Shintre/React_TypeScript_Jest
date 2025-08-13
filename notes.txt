@@ -1,2 +1,22 @@
 TDD(Test Driven Development):
 -TDD is a software devlopemnt process where you write the tests before writing the software code.
+
+Code Coverage Report :
+    -it means how much of code is tested from you software
+
+What to test :
+    -Test component renders
+    -Test component renders with props
+    -test component renders in different state (e.g if login show logout button and if logout shows login button)
+    -Test component reacts to events (like ex. input controls,buttons that allows user Interaction)
+
+RTL Queries :
+    -Queries are the methods that testing library provides  to find the elements on the page
+    -To find the single element on page :
+        1.getBy..  (e.g getByRole we have other suffixs)
+        2.queryBy..
+        3.findBy..
+    -To find multiple element on page :
+        1.getAllBy..
+        2.queryAllBy..
+        3.findAllBy..
