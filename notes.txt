@@ -1,5 +1,12 @@
+Jest 
+    -Jest is a javascript testing framwork
+    -jest is a test runner that finds the test , runs the test and check whether the test is passed or failed and give back the report.
+
+RTL 
+    -React Testing Library 
+
 TDD(Test Driven Development):
--TDD is a software devlopemnt process where you write the tests before writing the software code.
+    -TDD is a software devlopemnt process where you write the tests before writing the software code.
 
 Code Coverage Report :
     -it means how much of code is tested from you software
